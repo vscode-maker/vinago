@@ -1,0 +1,9 @@
+export { default as HeroSection } from './HeroSection';
+export { default as ServicesSection } from './ServicesSection';
+export { default as PricingSection } from './PricingSection';
+export { default as PriceCalculator } from './PriceCalculator';
+export { default as VehicleTypesSection } from './VehicleTypesSection';
+export { default as DeliveryTimeSection } from './DeliveryTimeSection';
+export { default as LocationsSection } from './LocationsSection';
+export { default as TipsSection } from './TipsSection';
+export { default as CTASection } from './CTASection';
