@@ -28,6 +28,25 @@ export const metadata: Metadata = {
     url: "https://vinago.io",
     siteName: "Vinago",
     type: "website",
+    images: [
+      {
+        url: "https://vinago.io/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Vinago - Vận chuyển hàng ghép",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Vinago - Dịch vụ vận chuyển hàng ghép chuyên nghiệp",
+    description:
+      "Dịch vụ vận chuyển hàng ghép uy tín, giá rẻ, giao hàng toàn quốc.",
+    images: ["https://vinago.io/og-image.png"],
+  },
+  icons: {
+    icon: "/favicon.png",
+    apple: "/apple-touch-icon.png",
   },
 };
 
